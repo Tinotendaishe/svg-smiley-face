@@ -1,3 +1,9 @@
 face {
   fill: gold;
 }
+
+mouth {
+  fill: none;
+  stroke-width: 6px;
+  stroke-linecap: round;
+}
